@@ -1,4 +1,4 @@
-#dmenu
+# dmenu
 
 ## Installation
 
